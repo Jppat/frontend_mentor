@@ -13,22 +13,23 @@ body {
 
 .main-card {
     flex-direction: column;
+    flex: 0 0 auto;
     justify-content: center;
     align-items: center;
     
     /* min-width: 315px; */
-    max-width: 280px;
+    max-width: 270px;
     margin-bottom: 20px;
-    padding: 1.5%;
+    padding: 15px;
     
     border-radius: 20px;
-    box-shadow: 0.5px 0.5px 15px hsl(220, 15%, 55%);
+    box-shadow: 0.5px 0.5px 15px hsl(220, 15%, 80%);
     background-color: hsl(0, 0%, 100%);
  }
 
 .card-text {
-    padding-left: 7px;
-    padding-right: 7px;
+    padding-left: 8px;
+    padding-right: 8px;
 }
 
 .main-card h1 {
@@ -44,10 +45,15 @@ body {
     text-align: center;
     font-size: 15px;
     font-weight: 400;
-    color: hsl(212, 45%, 89%);
+    /* color: hsl(212, 45%, 89%); */
+    color: hsl(220, 15%, 55%);
+
 }
 
 img {
+    box-sizing: border-box;
     width: 100%;
     border-radius: 10px;
+    /* padding: 12px; */
+    /* padding-bottom: 0; */
 }
