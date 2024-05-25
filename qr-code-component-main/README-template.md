@@ -43,7 +43,7 @@ related things together under one div.
 2. CSS - When I was early in learning the Odin Project curriculum, I learned that when no width is set, containers take the space of its contents. However,
 I never really got a firm hold on that knowledge. That's why I had a bit of trouble trying to center the card on the screen. 
 
-  Setting the margins to auto only centered the card horizontally. So, I added borders to see more clearly what was going on, and that's when I realized that the container was only taking the vertical space taken by the card. After that, I set the width of the body to 99vh to take up the whole viewport space. For some reason, setting it to 100vh took space a little beyond what I can see on the screen. I haven't yet done my research why this happens.
+    Setting the margins to auto only centered the card horizontally. So, I added borders to see more clearly what was going on, and that's when I realized that the container was only taking the vertical space taken by the card. After that, I set the width of the body to 99vh to take up the whole viewport space. For some reason, setting it to 100vh took space a little beyond what I can see on the screen. I haven't yet done my research why this happens.
 
 3. Flexbox - this challenge also gave me an opportunity to play around with some basic concepts related to flexbox, such as setting the flex-direction, as well as using the flex shorthand.
 
