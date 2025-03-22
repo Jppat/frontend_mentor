@@ -44,6 +44,7 @@ main {
 }
 
 .main-card {
+    border: 1px solid black;
     flex-direction: column;
     justify-content: center;
     
