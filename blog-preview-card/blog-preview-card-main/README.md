@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Jppat/frontend_mentor/tree/main/blog-preview-card/blog-preview-card-main)
+- Live Site URL: [Blog Preview Card](https://jppat.github.io/frontend_mentor/blog-preview-card/blog-preview-card-main/index.html)
 
 ## My process
 
