@@ -1,0 +1,36 @@
+.inter-default {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+}
+
+body{
+    height: 99vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 25vw;
+    height: 60vh;
+    justify-content: start;
+    align-items: center;
+}
+
+.profile {
+    width: 30%;
+    height: auto;
+}
+
+.name {
+    margin-bottom: 3px;
+}
+
+.location {
+    margin-top: 3px;
+}
