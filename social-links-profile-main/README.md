@@ -44,7 +44,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Josh Comaeu's interactive guide to flexbox ](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) - This helped me for better understand how flexbox works.
+- [Josh Comeau's interactive guide to flexbox ](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) - This helped me for better understand how flexbox works.
 
 ## Author
 
