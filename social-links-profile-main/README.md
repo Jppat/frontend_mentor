@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Live site](https://jppat.github.io/frontend_mentor/social-links-profile-main/index.html)
+- Live Site URL: [Jppat - Social Links Profile](https://jppat.github.io/frontend_mentor/social-links-profile-main/index.html)
 
 ## My process
 
@@ -47,7 +47,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Josh Comeau's interactive guide to flexbox ](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) - This helped me for better understand how flexbox works.
+- [Josh Comeau's interactive guide to flexbox ](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) - This helped me to better understand how flexbox works.
 
 ## Author
 
