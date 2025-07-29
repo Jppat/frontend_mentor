@@ -23,8 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-![test](./screenshot_social_links_jppat.jpeg)
+### Desktop
 ![](./screenshot_social_links_jppat.jpeg)
+### Mobile
 ![](./screenshot_social_links_mobile_jppat.jpeg)
 
 ### Links
