@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot_social_links_jppat.jpg)
+![](./screenshot_social_links_jppat.jpeg)
 
 ### Links
 
