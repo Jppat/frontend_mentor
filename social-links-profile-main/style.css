@@ -32,7 +32,6 @@ body{
 }
 
 .card{
-    flex-basis: auto;
     background-color: hsl(0, 0%, 12%);
     display: flex;
     flex-direction: column;
@@ -47,19 +46,23 @@ body{
     width: 30%;
     height: auto;
     border-radius: 5em;
+    flex-shrink: 1;
+    margin-bottom: 1em;
 }
 
 .name {
     margin-bottom: 3px;
+    flex-shrink: 2;
 }
 
 .location {
     margin-top: 0.3em;
     color: hsl(75, 94%, 57%);
+    flex-shrink: 2;
 }
 
 .description {
-    flex-shrink: 3;
+    flex-shrink: 4;
 }
 
 ul {
@@ -74,7 +77,7 @@ li {
     margin: 1em 0 1em 0;
     padding: 1em;
     border-radius: 0.5em;
-    flex-shrink: 2;
+    flex-shrink: 3;
 }
 
 li:hover {
