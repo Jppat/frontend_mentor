@@ -28,7 +28,7 @@ Users should be able to:
 <img src="./result_desktop.png" alt="desktop view of social links profile" width="200"/>
 
 ### Mobile
-<img src="./result_mobile.png" alt="mobile view of social links profile" width="200"/>
+<img src="./result_mobile.png" alt="mobile view of social links profile" width="900"/>
 
 ### Links
 
