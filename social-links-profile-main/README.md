@@ -24,9 +24,11 @@ Users should be able to:
 ### Screenshot
 
 ### Desktop
-![](./result_desktop.png)
+<!-- ![](./result_desktop.png) -->
+<img src="./result_desktop.png" alt="desktop view of social links profile" width="200"/>
+
 ### Mobile
-![](./result_mobile.png)
+<img src="./result_mobile.png" alt="mobile view of social links profile" width="200"/>
 
 ### Links
 
