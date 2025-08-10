@@ -1,0 +1,128 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(/assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: 'Young Serif';
+    src: url(/assets/fonts/young-serif/YoungSerif-Regular.ttf);
+}
+
+:root {
+    --white: hsl(0, 0%, 100%);
+    --stone-100: hsl(30, 54%, 90%);
+    --stone-150: hsl(30, 18%, 87%);
+    --stone-600: hsl(30, 10%, 34%);
+    --stone-900: hsl(24, 5%, 18%);
+    --brown-800: hsl(14, 45%, 36%);
+    --rose-800: hsl(332, 51%, 32%);
+    --rose-50: hsl(330, 100%, 98%);
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+
+h1, h2 {
+    font-family: 'Young Serif', serif;
+    font-weight: 400;
+}
+
+h1 {
+    margin-bottom: 0;
+    color:var(--stone-900);
+    font-size: 2em;
+}
+
+h2 {
+    color:var(--brown-800);
+}
+
+h3 {
+ color: var(--rose-800);
+}
+
+p, li {
+    color: var(--stone-600);
+    line-height: 1.5;
+}
+
+p.prep {
+    font-size: 1em;
+    font-weight: 600;
+    color: var(--rose-800);
+}
+
+span.bold {
+    font-weight: 600;
+}
+
+body{
+    min-width: 100vw;
+    min-height: 100vh;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: var(--stone-150);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    background-color: var(--white);
+    width:50%;
+    max-width: 650px;
+    margin: 20px;
+    border-radius: 15px;
+    padding: 35px;
+    flex-shrink: 2;
+}
+
+
+img {
+  width: 100%;
+  border-radius: 10px;
+  flex-shrink: 1;
+}
+
+section.preparation {
+    background-color: var(--rose-50);
+    padding: 16px;
+    border-radius: 10px;
+}
+
+hr {
+    margin-top: 20px;
+    border: none;
+    height: 1px;
+    background: var(--stone-100);
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+tr {
+    border-bottom: 1px solid var(--stone-100);
+}
+
+table tr:last-child {
+    border-bottom: none;
+}
+
+th, td {
+    text-align: left;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+th {
+    color: var(--stone-600);
+    font-weight: 400;
+}
+
+td {
+    color: var(--brown-800);
+}
