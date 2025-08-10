@@ -37,7 +37,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - Applied semantic html elements such as main and section.
 - Learned that setting height: 100vh can cut elements on the page. Using min-height avoids that.
-- Added custom fonts using ```css@font-face``` as I learned from another user.
+- Added custom fonts using ```css @font-face``` as I learned from another user.
 - Used custom css variables.
 - Got to work with HTML tables
 
