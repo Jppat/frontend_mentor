@@ -18,7 +18,14 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./jppat_recipe_page.jpeg)
+<!-- ![](./recipe-desktop) -->
+#### Desktop
+<img src="./recipe-desktop.png" alt="desktop view of recipe page" width="300"/>
+
+#### Mobile
+<!-- ![](./recipe-mobile) -->
+<img src="./recipe-mobile.png" alt="desktop view of recipe page" width="300"/>
+
 
 ### Links
 
@@ -40,10 +47,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Added custom fonts using ```css @font-face``` as I learned from another user.
 - Used custom css variables.
 - Got to work with HTML tables
+- It's incredibly helpul to keep in mind the basic relationship of each tag/element, 
+i.e., parent-child relationships. This makes it easier to debug designs.
 
 ### Continued development
 
-- Need to be understand more about how parents and their child elements interact, especially in terms of sizing.
+- To be more comfortable with using em or rem for sizes.
 
 ## Author
 - Frontend Mentor - [@Jppat](https://www.frontendmentor.io/profile/Jppat)
